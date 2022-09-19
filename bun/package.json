@@ -1,0 +1,12 @@
+{
+  "name": "bun-example",
+  "module": "server.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "^0.1.0"
+  },
+  "dependencies": {
+    "on-demand-bundler": "^0.0.4",
+    "preact": "^10.11.0"
+  }
+}
